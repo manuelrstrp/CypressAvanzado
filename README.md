@@ -1,4 +1,4 @@
-# Cypress Avanzado 💚
+# Cypress Avanzado 🧑🏻‍💻
 Una practica como consecuencia final de terminar los cursos de cypress UI y cypres BackEnd
 > Se realizaron diversar pruebas funcionales E2E durante el curso para asi aplicar lo conocimientos.
 
