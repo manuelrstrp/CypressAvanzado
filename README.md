@@ -1,6 +1,6 @@
 # Cypress Avanzado 🧑🏻‍💻
-Una practica como consecuencia final de terminar los cursos de cypress UI y cypres BackEnd
-> Se realizaron diversar pruebas funcionales E2E durante el curso para asi aplicar lo conocimientos.
+Una practica como consecuencia final de terminar los cursos de cypress UI y cypress BackEnd
+> Se realizaron diversas pruebas funcionales E2E durante el curso para asi aplicar lo conocimientos.
 
 ## En este curso aplique:
 * Manejo de cookies
